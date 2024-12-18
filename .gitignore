@@ -1,0 +1,3 @@
+data/*.csv  # Ignore les fichiers CSV dans le dossier data
+*.pyc       # Ignore les fichiers compilés Python
+.env        # Ignore les fichiers d'environnement
